@@ -19,4 +19,10 @@ export const caseStudies: CaseStudy[] = [
     summary:
       "One endpoint, two consumer teams, conflicting requests: a single additive contract with flexible time slots and sparse fieldsets instead of two divergent APIs.",
   },
+  {
+    slug: "click-and-collect",
+    title: "Surfacing In-Store Pickup Options",
+    summary:
+      "Automatically matching stock and distance to propose store pickup: radius filter, nearest-first ordering, and a simulated stock reservation on confirm.",
+  },
 ];
